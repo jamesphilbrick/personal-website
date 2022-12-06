@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css");
+
+:root{
+    --secondary-color: rgb(231, 180, 255);
+    --background-color: rgb(30, 30, 40);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+::-webkit-scrollbar-track {
+    background: var(--background-color); 
+  }
+
+::-webkit-scrollbar-thumb {
+    background: black; 
+  }
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--secondary-color); 
+  }
+
+.under-construction {
+    color: white;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid var(--secondary-color);
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px black;
+    margin: auto;
+    text-align: center;
+}
+
+.name-heading {
+    font-family: 'Roboto Mono';
+    color: white;
+    text-align: center;
+}
+.social-button:active {
+    box-shadow: 5px 5px 0px 0px black;
+}
+
+.social-button:hover {
+    box-shadow: 5px 5px 0px 0px black;
+    color: var(--background-color);
+    background-color: var(--secondary-color);
+}
+
+.social-button {
+    font-size: 24px;
+    color: var(--secondary-color);
+    background-color: var(--background-color);
+    width: 50px;
+    height: 50px;
+    border-color: var(--secondary-color);
+    border-style: solid;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+.nav {
+    font-family: 'Roboto Mono';
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0px;
+    overflow: hidden;
+    background-color: var(--background-color);
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    text-decoration: none
+}
+
+.nav li a:hover {
+    background-color: var(--secondary-color);
+    border-radius: 10px;
+    color: var(--background-color);
+    box-shadow: 5px 5px 0px 0px black;
+}
+
+body {
+    background-color: var(--background-color)
+}
+
+p {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+u {
+    text-decoration-color: var(--secondary-color);
+}
+
+em {
+    color: var(--secondary-color);
+}
