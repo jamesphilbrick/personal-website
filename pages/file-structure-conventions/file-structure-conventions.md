@@ -1,3 +1,4 @@
+[<< Back]() | [Home](https://jamesphilbrick.github.io/personal-website/)
 # How I Structure My Files
 This is mostly future reference for myself 😊
 I like to keep digitally organised (although I do go through phases every now and then of swamping easy access locations such as the desktop or downloads folder with all sorts of higgildy piggildy files). Here, I briefly touch on the few methods and rules I follow to stay organised and clutter-free, while not deleting the old stuff. 
@@ -12,4 +13,4 @@ I name folders following the aforementioned rules, but with a bit of extra spice
 * I also accrue old files which I'd like to clear away, but not delete. For this, I use a `[99] Archive` folder to throw the messy stuff into. 
 * I'm happy to use these hierarchical folder names and archive folders wherever they're needed, no matter of which level they're at, or how specific the content is. All that matters is that things are easy to find and tidy. 
 ## Example
-![enter image description here](../images/file-structure-conventions-img-example.svg)
+![File structure example pulled from my IceDrive](./images/file-structure-conventions-img-example.svg)
