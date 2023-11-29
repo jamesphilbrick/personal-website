@@ -3,6 +3,8 @@ A visualisation of the total distance I have run, as of the start of 2023 (when 
 
 I have run **838.4 / 5404 km**, 15.5% through my trans-atlantic migration. 
 
+<script src="https://embed.github.com/view/geojson/jamesphilbrick/personal-website/main/pages/geojson_test_raw.geojson"></script>
+
 ```geojson
 {
   "type": "GeometryCollection",
