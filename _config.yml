@@ -1,4 +1,6 @@
 # remote_theme: pages-themes/cayman@v0.2.0
+name: James' Personal Website
+title: null
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
