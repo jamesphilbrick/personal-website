@@ -9,11 +9,14 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#401714;
   font-weight:400;
+  background-image: url(https://jamesphilbrick.github.io/personal-website/resources/images/main_page_background.jpg);
 }
 
 section {
   width: 100%;
-  padding-bottom: 50px;
+  padding: 50px;
+  background-color: white;
+  height: 100vh;
 }
 
 footer {
@@ -22,6 +25,8 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+header 
 
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
