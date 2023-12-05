@@ -1,12 +1,12 @@
 {
-  "type": "GeometryCollection",
-  "geometries": [{
-     "type": "Point",
-     "coordinates": [-14.6683, 55.1757],
-  }, {
-     "type": "LineString",
-     "coordinates": [
-        [-1.5491,53.8008],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+        [-1.54910000000000,53.8008000000000],
         [-5.57177711063369,54.3849544665517],
         [-9.69670942169745,54.8318348023634],
         [-13.8990429453463,55.1360771359325],
@@ -26,8 +26,22 @@
         [-66.2254336083292,45.2786809100295],
         [-68.9490638469218,43.8162588795381],
         [-71.5398202622419,42.2922911999225],
-        [-74.006,40.7128]
-     ]}, 
-  "properties": {"marker-color": "#FFF"}
+        [-74.0060000000000,40.7128000000000],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#BF4215",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [-14.6683, 55.1757],
+        "type": "Point"
+      },
+      "id": 1
+    }
   ]
 }
