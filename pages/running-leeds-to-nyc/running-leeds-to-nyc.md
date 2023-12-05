@@ -1,4 +1,3 @@
-[<< Back](https://jamesphilbrick.github.io/personal-website/pages/blog.html) | [Home](https://jamesphilbrick.github.io/personal-website/)
 # Running Progress: Leeds -> New York City 🏃‍♂🗺
 A visualisation of the total distance I have run, as of the start of 2023 (when I started recording on [my Strava page](https://www.strava.com/athletes/53847048)).
 
