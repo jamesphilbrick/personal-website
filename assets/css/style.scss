@@ -23,6 +23,11 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+p, ul, ol, table, pre, dl {
+  margin: 0 0 20px;
+  color: #401714;
+}
+
 h1, 
 h2, 
 h3, 
@@ -31,4 +36,8 @@ h5,
 h6 {
   color: #BF4215;
   margin: 0 0 20px
+}
+
+a:hover, a:focus {
+  color:#BF4215;
 }
