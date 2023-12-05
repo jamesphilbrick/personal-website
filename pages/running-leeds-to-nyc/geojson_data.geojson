@@ -2,7 +2,8 @@
   "type": "GeometryCollection",
   "geometries": [{
      "type": "Point",
-     "coordinates": [-14.6683, 55.1757]
+     "coordinates": [-14.6683, 55.1757], 
+     "properties": {"marker-color": "#FFF"}
   }, {
      "type": "LineString",
      "coordinates": [
@@ -28,5 +29,5 @@
         [-71.5398202622419,42.2922911999225],
         [-74.006,40.7128]
      ]
-  }]
+  }], 
 }
