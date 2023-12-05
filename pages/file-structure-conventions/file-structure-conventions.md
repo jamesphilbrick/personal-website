@@ -1,4 +1,3 @@
-[<< Back](https://jamesphilbrick.github.io/personal-website/pages/blog.html) | [Home](https://jamesphilbrick.github.io/personal-website/)
 # How I Structure My Files
 This is mostly future reference for myself 😊
 I like to keep digitally organised (although I do go through phases every now and then of swamping easy access locations such as the desktop or downloads folder with all sorts of higgildy piggildy files). Here, I briefly touch on the few methods and rules I follow to stay organised and clutter-free, while not deleting the old stuff. 
