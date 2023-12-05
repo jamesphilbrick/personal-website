@@ -10,3 +10,11 @@ body {
   color:#727272;
   font-weight:400;
 }
+
+footer {
+  width:270px;
+  /* float:left; */
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
