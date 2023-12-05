@@ -26,7 +26,12 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header 
+code, pre {
+  color: #401714;
+  background-color: #faf5e6;
+  padding: 2px;
+  border-radius: 2px;
+}
 
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
