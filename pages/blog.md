@@ -1,5 +1,4 @@
-[Home](https://jamesphilbrick.github.io/personal-website/)
-# Blog ✍
+# Blog <i class="fa-solid fa-newspaper" aria-hidden="true" style="color: #BF4215;"></i>
 
 Below are some incoherent writings on some things I find interesting, and that which you might too: 
 
